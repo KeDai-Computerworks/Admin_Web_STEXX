@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>173578785882-1ootgp4gvv4850256smtd86oubr9ape8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.173578785882-1ootgp4gvv4850256smtd86oubr9ape8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>173578785882-0mmr9ibo580bduhhj1c59cnpqphff40f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_HkYPshzRjos0eP08B8x_kYtMHdaGLC0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173578785882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.adminWebSte.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>pendaftaran-kedai</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pendaftaran-kedai.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173578785882:ios:3620b000bd004325023463</string>
+	<key>DATABASE_URL</key>
+	<string>https://pendaftaran-kedai-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "173578785882",
+    "firebase_url": "https://pendaftaran-kedai-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pendaftaran-kedai",
+    "storage_bucket": "pendaftaran-kedai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173578785882:android:e41c8531f6d2ad76023463",
+        "android_client_info": {
+          "package_name": "com.example.admin_web_ste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTaebgzmUaOFSCeCV0ZgGST-mTXoCj1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173578785882-40vnrvgku8s48rfmbl4p8u6k5kh9eomt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cobaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173578785882:android:622ddfc7854f77d5023463",
+        "android_client_info": {
+          "package_name": "com.example.coba_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTaebgzmUaOFSCeCV0ZgGST-mTXoCj1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173578785882-40vnrvgku8s48rfmbl4p8u6k5kh9eomt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cobaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173578785882:android:f6f0bed3d75444dd023463",
+        "android_client_info": {
+          "package_name": "id.or.kedai.kedaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173578785882-0mmr9ibo580bduhhj1c59cnpqphff40f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.or.kedai.kedaiapp",
+            "certificate_hash": "2f3f0f8b8d424b7e1d068a25af8bcb1649e46498"
+          }
+        },
+        {
+          "client_id": "173578785882-1f401iplqp585d97lbqi4inlpsvalaea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.or.kedai.kedaiapp",
+            "certificate_hash": "1002060b9dedd2fa8ef3e869f2093223358863b9"
+          }
+        },
+        {
+          "client_id": "173578785882-62ri3fvinqv4r0eegn68r51nht2gc99r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.or.kedai.kedaiapp",
+            "certificate_hash": "7a3fe8d70261aff5a28ba031bbef5afcef6ddc21"
+          }
+        },
+        {
+          "client_id": "173578785882-pouvjor0afrtaf862ag5ke4ijj86kq83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.or.kedai.kedaiapp",
+            "certificate_hash": "3e340c04e0f0a03237fba89d209a86438b2aa955"
+          }
+        },
+        {
+          "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTaebgzmUaOFSCeCV0ZgGST-mTXoCj1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173578785882-40vnrvgku8s48rfmbl4p8u6k5kh9eomt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cobaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173578785882:android:300fd6e6ba36ad91023463",
+        "android_client_info": {
+          "package_name": "id.or.kedai.kedaiapp.admin_ste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTaebgzmUaOFSCeCV0ZgGST-mTXoCj1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173578785882-8131r00e4hbg6fnnpl6m5pohjqe83oqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173578785882-40vnrvgku8s48rfmbl4p8u6k5kh9eomt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cobaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
